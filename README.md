@@ -62,6 +62,7 @@ cd $home && cd inery-node/inery.setup
 ```
 CTRL+A+D
 ```
+cd $home
 cd ~/inery-node/inery.setup/master.node
 chmod +x start.sh
 ./start.sh
